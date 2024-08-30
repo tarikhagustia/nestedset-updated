@@ -13,7 +13,7 @@ const pool = new Pool({
 // const PARENT_ID_COLUMN = "parent_id";
 // const ID_COLUMN = "id";
 
-const TABLE_NAME = "a002_user_structure_v2";
+const TABLE_NAME = "a002_user_structure_v3";
 const PARENT_ID_COLUMN = "dpar_id";
 const ID_COLUMN = "user_id";
 
