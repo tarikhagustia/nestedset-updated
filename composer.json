@@ -1,7 +1,0 @@
-{
-  "require": {
-    "illuminate/database": "^11.20",
-    "kalnoy/nestedset": "^6.0",
-    "vlucas/phpdotenv": "^5.6"
-  }
-}
