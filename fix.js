@@ -10,7 +10,7 @@ const pool = new Pool({
 });
 
 const TABLE_NAME = "a002_user_structure_v3";
-const PARENT_ID_COLUMN = "dpar_id";
+const PARENT_ID_COLUMN = "dpar_lft_rgt";
 const ID_COLUMN = "user_id";
 
 const starTime = new Date().getTime();
